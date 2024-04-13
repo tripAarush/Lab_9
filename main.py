@@ -1,4 +1,5 @@
 # first github
+# encode
 def encode(password):
     if password.isdigit() or not len(password) != 8:
         raise ValueError("Password should be 8 digits long and contain only integers.")
