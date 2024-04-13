@@ -1,3 +1,4 @@
+# My name is Aarush Tripathi
 # first github
 def encode(password):
     if not password.isdigit() or len(password) != 8:
